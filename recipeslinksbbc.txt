@@ -1,0 +1,10 @@
+https://account.bbc.com/signin/help?action=sign-in&clientId=Account&isCasso=false&lang=ar-SA&nonce=vboZcM7M-QycYUngZCCz9bci-04TKnOx7JH0&ptrt=https%3A%2F%2Faccount.bbc.com%2Faccount&realm=%2F&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService
+https://account.bbc.com/signin/forgotten?action=sign-in&clientId=Account&isCasso=false&lang=ar-SA&nonce=vboZcM7M-QycYUngZCCz9bci-04TKnOx7JH0&ptrt=https%3A%2F%2Faccount.bbc.com%2Faccount&realm=%2F&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService
+https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.co.uk/search
+https://search.bbc.co.uk/search?scope=all
+https://www.bbc.co.uk/search?q=#main-heading
+https://www.bbc.co.uk/food/recipes/a-z/a/1
+https://account.bbc.com/account
+https://www.bbc.com/travel
+https://www.bbc.co.uk/accessibility/
+https://www.bbc.co.uk/usingthebbc/account/im-having-problems-with-my-password
